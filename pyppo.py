@@ -29,9 +29,9 @@ class Pyppo:
             'bañandose': '''
      |\_/| 
     / ~ ~ \\
-   ( >   < )
-    '>>-<<'
-     / O \\
+   ( >   < )  />
+    '>>-<<' \\__/
+~~~~~/ O \\~~~~~
             ''',
             'jugando': '''
      |\_/| 
@@ -46,9 +46,9 @@ class Pyppo:
 
     def incrementar_estadisticas(self):
         # Ajusta las tasas de incremento según tus preferencias
-        self.hambre += 0.02
+        self.hambre += 0.01
         self.sueño += 0.001
-        self.higiene += 0.006
+        self.higiene += 0.004
         self.aburrimiento += 0.008
 
        
