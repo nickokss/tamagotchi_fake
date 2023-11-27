@@ -1,2 +1,2 @@
-# tamagotchi_fake
-Tamagotchi realizazdo en python
+### Tamagotchi fake
+Tamagotchi realizado en python.
